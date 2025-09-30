@@ -13,4 +13,4 @@ jobs:
 
       - name: Build project
         run: |
-          index.html   # example build step 
+          echo "hello world" index.html   # example build step 
