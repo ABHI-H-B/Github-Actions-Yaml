@@ -13,4 +13,4 @@ jobs:
 
       - name: Build project
         run: |
-          cat index.html   # example build step 
+          index.html   # example build step 
